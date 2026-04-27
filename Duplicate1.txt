@@ -1,1 +1,2 @@
-This a Duplicate txt file
+This a Duplicate txt file 
+city: coimbatore
