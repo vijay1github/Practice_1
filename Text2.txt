@@ -1,2 +1,3 @@
 This is TEXT file 2
 My self Vijay Kumar
+this is the text2 file this is moved from text1 file
